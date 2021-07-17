@@ -1,5 +1,5 @@
 package Lec16;
-public class CastingDemo {
+public class Casting {
   /** Main method */
   public static void main(String[] args) {
     // Create and initialize two objects

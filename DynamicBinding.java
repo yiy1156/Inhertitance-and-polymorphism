@@ -1,6 +1,6 @@
 package Lec16;
 
-public class DynamicBindingDemo {
+public class DynamicBinding\ {
   public static void main(String[] args) {
 	Object o = new GraduateStudent(); // implicit casting
 	

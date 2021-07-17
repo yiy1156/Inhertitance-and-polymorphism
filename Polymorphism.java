@@ -1,5 +1,5 @@
 package Lec16;
-public class PolymorphismDemo {
+public class Polymorphism {
   /** Main method */
   public static void main(String[] args) {
     // Display circle and rectangle properties
